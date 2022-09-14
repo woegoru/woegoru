@@ -9,14 +9,15 @@
 <br>in addition, since 2010 I have been fond of drawing. I make sketches, traditional and digital art.
 
 <h3>How to reach me:</h3> 
-<br>https://vk.com/d.kobyashova
-<br>https://t.me/woegoru
-<br>https://www.instagram.com/woegoru
-<br>https://discordapp.com/users/woegoru
-<br>https://join.skype.com/invite/IfHt34qo6ejp
-<br>https://www.youtube.com/channel/UCd177ypdAq98HCt3XWjx61g
+<br> - https://vk.com/d.kobyashova
+<br> - https://t.me/woegoru
+<br> - https://www.instagram.com/woegoru
+<br> - https://discordapp.com/users/woegoru
+<br> - https://join.skype.com/invite/IfHt34qo6ejp
+<br> - https://www.youtube.com/channel/UCd177ypdAq98HCt3XWjx61g
 <br>
 <br>
+
 
 
 <div>
@@ -30,6 +31,5 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=woegoru&theme=solarized_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=woegoru&theme=solarized_dark)
 
-![](https://github.com/woegoru/snk/raw/output/github-contribution-grid-snake.svg)
 
 
