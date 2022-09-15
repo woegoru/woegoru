@@ -26,7 +26,10 @@
 
 </div>
 
-
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=woegoru&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=woegoru&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=woegoru&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=woegoru&theme=solarized_dark)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=woegoru&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
