@@ -4,7 +4,7 @@
 
 <h3> I am currently studying at Voronezh State University in the direction of computer science and computer engineering </h3>
 
-<h3>I specialize</h3> in programming, website creation and web design.
+<h3>I specialize</h3> in programming, website creation and web design, Games and Apps.
 <br>Also, since 2008 I have been professionally engaged in music. I own ten musical instruments and have many awards and achievements in this field.
 <br>in addition, since 2010 I have been fond of drawing. I make sketches, traditional and digital art.
 
