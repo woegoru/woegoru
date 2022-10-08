@@ -31,4 +31,3 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=woegoru&theme=solarized_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=woegoru&theme=solarized_dark)
 
-
