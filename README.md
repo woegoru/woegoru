@@ -1,4 +1,4 @@
-### Hi there 👋 I’m woegoru.
+### Hi there 👋 I’m woegoru
 
 ![](https://komarev.com/ghpvc/?username=woegoru)
 
