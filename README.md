@@ -8,8 +8,6 @@
 <br>Also, since 2008 I have been professionally engaged in music. I own ten musical instruments and have many awards and achievements in this field.
 <br>in addition, since 2010 I have been fond of drawing. I make sketches, traditional and digital art.
 
-
-
 <h3>How to reach me:</h3> 
 <br> - https://vk.com/d.kobyashova
 <br> - https://t.me/woegoru
